@@ -6,3 +6,4 @@ This page contains all the resources, web portal links and videos related to our
 
 - Chart Data Endpoint - [https://insi.herokuapp.com/chartStats](https://insi.herokuapp.com/chartStats)
 - Dashboard Data Endpoint - [https://insi.herokuapp.com/getStats](https://insi.herokuapp.com/getStats)
+- Project on GitHub - [https://github.com/HELLLabs/Insi](https://github.com/HELLLabs/Insi)
