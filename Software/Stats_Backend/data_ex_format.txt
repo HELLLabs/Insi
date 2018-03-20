@@ -1,0 +1,9 @@
+{
+    "device_state": 1,
+    "thermo_state": 0,
+    "temp": 25.6,
+    "coil_state": 1,
+    "date": date,
+    "time": time,
+    "day": day
+}
